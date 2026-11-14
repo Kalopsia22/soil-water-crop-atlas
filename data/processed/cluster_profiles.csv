@@ -1,6 +1,0 @@
-cluster,cluster_name,n,soil_macro_stress,soil_micro_stress,soil_chem_stress,water_stress,eq_st_sc_area_pct,eq_marginal_hold_pct,crop_hhi,msp_area_share,cereal_share,dvi,gca_median
-0,Smallholder plantation & mixed-crop districts,115,40.09,20.03,2.88,48.41,7.26,77.16,0.24,70.48,49.82,0.42,164700.02
-1,Rainfed paddy belt (east & centre),152,27.49,21.83,12.07,82.18,35.35,69.53,0.57,92.73,88.7,0.66,114175.23
-2,Tribal-majority hill & northeast districts,91,22.39,15.05,20.94,79.97,91.2,51.11,0.26,62.02,59.31,0.47,33228.47
-3,Semi-arid cotton-soybean-millet plateau,153,36.37,28.03,0.65,60.76,14.91,38.03,0.26,90.7,37.74,0.43,445216.16
-4,Irrigated rice-wheat plains,157,49.89,18.76,0.22,17.83,8.4,78.23,0.4,95.1,90.82,0.45,271514.8
