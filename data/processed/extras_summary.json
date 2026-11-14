@@ -1,0 +1,23 @@
+{
+  "moran": {
+    "I": 0.5847305227256129,
+    "p": 0.001,
+    "k_neighbours": 6,
+    "n": 645
+  },
+  "lisa_counts": {
+    "Not significant": 402,
+    "High-High": 114,
+    "Low-Low": 104,
+    "High-Low": 20,
+    "Low-High": 5
+  },
+  "irr_gap_median": 1.4036344882720435,
+  "irr_gap_n": 438,
+  "irr_gap_share_positive": 0.6027397260273972,
+  "soil_ci_median_pts": 0.8138091734596736,
+  "msp_growth_range": [
+    4.937609056171601,
+    10.334242322291361
+  ]
+}
