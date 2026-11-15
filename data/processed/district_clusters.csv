@@ -1,0 +1,669 @@
+state_name,district_name,cluster,cluster_name
+Andaman And Nicobar Islands,Nicobars,3,Semi-arid cotton-soybean-millet plateau
+Andaman And Nicobar Islands,North And Middle Andaman,3,Semi-arid cotton-soybean-millet plateau
+Andaman And Nicobar Islands,South Andamans,0,Smallholder plantation & mixed-crop districts
+Andhra Pradesh,Ananthapuramu,3,Semi-arid cotton-soybean-millet plateau
+Andhra Pradesh,Chittoor,0,Smallholder plantation & mixed-crop districts
+Andhra Pradesh,East Godavari,4,Irrigated rice-wheat plains
+Andhra Pradesh,Guntur,0,Smallholder plantation & mixed-crop districts
+Andhra Pradesh,Krishna,0,Smallholder plantation & mixed-crop districts
+Andhra Pradesh,Kurnool,3,Semi-arid cotton-soybean-millet plateau
+Andhra Pradesh,Prakasam,0,Smallholder plantation & mixed-crop districts
+Andhra Pradesh,Sri Potti Sriramulu Nellore,0,Smallholder plantation & mixed-crop districts
+Andhra Pradesh,Srikakulam,0,Smallholder plantation & mixed-crop districts
+Andhra Pradesh,Visakhapatnam,0,Smallholder plantation & mixed-crop districts
+Andhra Pradesh,Vizianagaram,0,Smallholder plantation & mixed-crop districts
+Andhra Pradesh,West Godavari,0,Smallholder plantation & mixed-crop districts
+Andhra Pradesh,Y.S.R. Kadapa,3,Semi-arid cotton-soybean-millet plateau
+Arunachal Pradesh,Anjaw,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,Changlang,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,Dibang Valley,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,East Kameng,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,East Siang,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,Kamle,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,Kra Daadi,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,Kurung Kumey,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,Leparada,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,Lohit,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,Longding,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,Lower Dibang Valley,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,Lower Siang,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,Lower Subansiri,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,Namsai,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,Pakke Kessang,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,Papum Pare,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,Shi Yomi,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,Siang,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,Tawang,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,Tirap,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,Upper Siang,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,Upper Subansiri,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,West Kameng,2,Tribal-majority hill & northeast districts
+Arunachal Pradesh,West Siang,2,Tribal-majority hill & northeast districts
+Assam,Baksa,1,Rainfed paddy belt (east & centre)
+Assam,Barpeta,1,Rainfed paddy belt (east & centre)
+Assam,Biswanath,1,Rainfed paddy belt (east & centre)
+Assam,Bongaigaon,1,Rainfed paddy belt (east & centre)
+Assam,Cachar,1,Rainfed paddy belt (east & centre)
+Assam,Charaideo,1,Rainfed paddy belt (east & centre)
+Assam,Chirang,1,Rainfed paddy belt (east & centre)
+Assam,Darrang,1,Rainfed paddy belt (east & centre)
+Assam,Dhemaji,1,Rainfed paddy belt (east & centre)
+Assam,Dhubri,1,Rainfed paddy belt (east & centre)
+Assam,Dibrugarh,2,Tribal-majority hill & northeast districts
+Assam,Dima Hasao,2,Tribal-majority hill & northeast districts
+Assam,Goalpara,1,Rainfed paddy belt (east & centre)
+Assam,Golaghat,2,Tribal-majority hill & northeast districts
+Assam,Hailakandi,1,Rainfed paddy belt (east & centre)
+Assam,Hojai,1,Rainfed paddy belt (east & centre)
+Assam,Jorhat,1,Rainfed paddy belt (east & centre)
+Assam,Kamrup,1,Rainfed paddy belt (east & centre)
+Assam,Kamrup Metro,1,Rainfed paddy belt (east & centre)
+Assam,Karbi Anglong,1,Rainfed paddy belt (east & centre)
+Assam,Kokrajhar,1,Rainfed paddy belt (east & centre)
+Assam,Lakhimpur,1,Rainfed paddy belt (east & centre)
+Assam,Marigaon,1,Rainfed paddy belt (east & centre)
+Assam,Nagaon,1,Rainfed paddy belt (east & centre)
+Assam,Nalbari,1,Rainfed paddy belt (east & centre)
+Assam,Sivasagar,1,Rainfed paddy belt (east & centre)
+Assam,Sonitpur,1,Rainfed paddy belt (east & centre)
+Assam,South Salmara Mancachar,1,Rainfed paddy belt (east & centre)
+Assam,Sribhumi,1,Rainfed paddy belt (east & centre)
+Assam,Tinsukia,0,Smallholder plantation & mixed-crop districts
+Assam,Udalguri,1,Rainfed paddy belt (east & centre)
+Assam,West Karbi Anglong,2,Tribal-majority hill & northeast districts
+Bihar,Araria,4,Irrigated rice-wheat plains
+Bihar,Arwal,1,Rainfed paddy belt (east & centre)
+Bihar,Aurangabad,4,Irrigated rice-wheat plains
+Bihar,Banka,4,Irrigated rice-wheat plains
+Bihar,Begusarai,4,Irrigated rice-wheat plains
+Bihar,Bhagalpur,4,Irrigated rice-wheat plains
+Bihar,Bhojpur,4,Irrigated rice-wheat plains
+Bihar,Buxar,4,Irrigated rice-wheat plains
+Bihar,Darbhanga,4,Irrigated rice-wheat plains
+Bihar,Gaya,4,Irrigated rice-wheat plains
+Bihar,Gopalganj,4,Irrigated rice-wheat plains
+Bihar,Jamui,1,Rainfed paddy belt (east & centre)
+Bihar,Jehanabad,4,Irrigated rice-wheat plains
+Bihar,Kaimur (Bhabua),4,Irrigated rice-wheat plains
+Bihar,Katihar,4,Irrigated rice-wheat plains
+Bihar,Khagaria,0,Smallholder plantation & mixed-crop districts
+Bihar,Kishanganj,0,Smallholder plantation & mixed-crop districts
+Bihar,Lakhisarai,4,Irrigated rice-wheat plains
+Bihar,Madhepura,1,Rainfed paddy belt (east & centre)
+Bihar,Madhubani,4,Irrigated rice-wheat plains
+Bihar,Munger,4,Irrigated rice-wheat plains
+Bihar,Muzaffarpur,4,Irrigated rice-wheat plains
+Bihar,Nalanda,4,Irrigated rice-wheat plains
+Bihar,Nawada,4,Irrigated rice-wheat plains
+Bihar,Pashchim Champaran,4,Irrigated rice-wheat plains
+Bihar,Patna,4,Irrigated rice-wheat plains
+Bihar,Purbi Champaran,4,Irrigated rice-wheat plains
+Bihar,Purnia,1,Rainfed paddy belt (east & centre)
+Bihar,Rohtas,4,Irrigated rice-wheat plains
+Bihar,Saharsa,1,Rainfed paddy belt (east & centre)
+Bihar,Samastipur,0,Smallholder plantation & mixed-crop districts
+Bihar,Saran,4,Irrigated rice-wheat plains
+Bihar,Sheikhpura,4,Irrigated rice-wheat plains
+Bihar,Sheohar,4,Irrigated rice-wheat plains
+Bihar,Sitamarhi,4,Irrigated rice-wheat plains
+Bihar,Siwan,4,Irrigated rice-wheat plains
+Bihar,Supaul,4,Irrigated rice-wheat plains
+Bihar,Vaishali,4,Irrigated rice-wheat plains
+Chhattisgarh,Balod,1,Rainfed paddy belt (east & centre)
+Chhattisgarh,Balodabazar-Bhatapara,1,Rainfed paddy belt (east & centre)
+Chhattisgarh,Balrampur-Ramanujganj,2,Tribal-majority hill & northeast districts
+Chhattisgarh,Bastar,1,Rainfed paddy belt (east & centre)
+Chhattisgarh,Bemetara,3,Semi-arid cotton-soybean-millet plateau
+Chhattisgarh,Bijapur,3,Semi-arid cotton-soybean-millet plateau
+Chhattisgarh,Bilaspur,1,Rainfed paddy belt (east & centre)
+Chhattisgarh,Dakshin Bastar Dantewada,2,Tribal-majority hill & northeast districts
+Chhattisgarh,Dhamtari,1,Rainfed paddy belt (east & centre)
+Chhattisgarh,Durg,1,Rainfed paddy belt (east & centre)
+Chhattisgarh,Gariyaband,1,Rainfed paddy belt (east & centre)
+Chhattisgarh,Gaurela-Pendra-Marwahi,1,Rainfed paddy belt (east & centre)
+Chhattisgarh,Janjgir-Champa,4,Irrigated rice-wheat plains
+Chhattisgarh,Jashpur,1,Rainfed paddy belt (east & centre)
+Chhattisgarh,Kabeerdham,2,Tribal-majority hill & northeast districts
+Chhattisgarh,Kondagaon,1,Rainfed paddy belt (east & centre)
+Chhattisgarh,Korba,1,Rainfed paddy belt (east & centre)
+Chhattisgarh,Korea,1,Rainfed paddy belt (east & centre)
+Chhattisgarh,Mahasamund,1,Rainfed paddy belt (east & centre)
+Chhattisgarh,Mungeli,2,Tribal-majority hill & northeast districts
+Chhattisgarh,Narayanpur,1,Rainfed paddy belt (east & centre)
+Chhattisgarh,Raigarh,1,Rainfed paddy belt (east & centre)
+Chhattisgarh,Raipur,4,Irrigated rice-wheat plains
+Chhattisgarh,Rajnandgaon,1,Rainfed paddy belt (east & centre)
+Chhattisgarh,Sukma,1,Rainfed paddy belt (east & centre)
+Chhattisgarh,Surajpur,1,Rainfed paddy belt (east & centre)
+Chhattisgarh,Surguja,1,Rainfed paddy belt (east & centre)
+Chhattisgarh,Uttar Bastar Kanker,1,Rainfed paddy belt (east & centre)
+Goa,North Goa,0,Smallholder plantation & mixed-crop districts
+Goa,South Goa,2,Tribal-majority hill & northeast districts
+Gujarat,Ahmedabad,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Amreli,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Anand,0,Smallholder plantation & mixed-crop districts
+Gujarat,Arvalli,0,Smallholder plantation & mixed-crop districts
+Gujarat,Banas Kantha,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Bharuch,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Bhavnagar,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Botad,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Chhotaudepur,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Dahod,1,Rainfed paddy belt (east & centre)
+Gujarat,Dangs,2,Tribal-majority hill & northeast districts
+Gujarat,Devbhumi Dwarka,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Gandhinagar,0,Smallholder plantation & mixed-crop districts
+Gujarat,Gir Somnath,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Jamnagar,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Junagadh,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Kachchh,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Kheda,0,Smallholder plantation & mixed-crop districts
+Gujarat,Mahesana,0,Smallholder plantation & mixed-crop districts
+Gujarat,Mahisagar,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Morbi,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Narmada,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Navsari,2,Tribal-majority hill & northeast districts
+Gujarat,Panch Mahals,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Patan,0,Smallholder plantation & mixed-crop districts
+Gujarat,Porbandar,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Rajkot,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Sabar Kantha,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Surat,2,Tribal-majority hill & northeast districts
+Gujarat,Surendranagar,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Tapi,3,Semi-arid cotton-soybean-millet plateau
+Gujarat,Vadodara,0,Smallholder plantation & mixed-crop districts
+Gujarat,Valsad,2,Tribal-majority hill & northeast districts
+Haryana,Ambala,4,Irrigated rice-wheat plains
+Haryana,Bhiwani,3,Semi-arid cotton-soybean-millet plateau
+Haryana,Charkhi Dadri,4,Irrigated rice-wheat plains
+Haryana,Faridabad,4,Irrigated rice-wheat plains
+Haryana,Fatehabad,4,Irrigated rice-wheat plains
+Haryana,Gurugram,4,Irrigated rice-wheat plains
+Haryana,Hisar,4,Irrigated rice-wheat plains
+Haryana,Jhajjar,4,Irrigated rice-wheat plains
+Haryana,Jind,4,Irrigated rice-wheat plains
+Haryana,Kaithal,4,Irrigated rice-wheat plains
+Haryana,Karnal,4,Irrigated rice-wheat plains
+Haryana,Kurukshetra,4,Irrigated rice-wheat plains
+Haryana,Mahendragarh,4,Irrigated rice-wheat plains
+Haryana,Nuh,0,Smallholder plantation & mixed-crop districts
+Haryana,Palwal,4,Irrigated rice-wheat plains
+Haryana,Panchkula,4,Irrigated rice-wheat plains
+Haryana,Panipat,4,Irrigated rice-wheat plains
+Haryana,Rewari,4,Irrigated rice-wheat plains
+Haryana,Rohtak,4,Irrigated rice-wheat plains
+Haryana,Sirsa,4,Irrigated rice-wheat plains
+Haryana,Sonipat,4,Irrigated rice-wheat plains
+Haryana,Yamunanagar,4,Irrigated rice-wheat plains
+Himachal Pradesh,Bilaspur,1,Rainfed paddy belt (east & centre)
+Himachal Pradesh,Hamirpur,1,Rainfed paddy belt (east & centre)
+Himachal Pradesh,Kangra,1,Rainfed paddy belt (east & centre)
+Himachal Pradesh,Kinnaur,2,Tribal-majority hill & northeast districts
+Himachal Pradesh,Kullu,0,Smallholder plantation & mixed-crop districts
+Himachal Pradesh,Lahaul And Spiti,2,Tribal-majority hill & northeast districts
+Himachal Pradesh,Mandi,0,Smallholder plantation & mixed-crop districts
+Himachal Pradesh,Shimla,0,Smallholder plantation & mixed-crop districts
+Himachal Pradesh,Sirmaur,2,Tribal-majority hill & northeast districts
+Himachal Pradesh,Solan,1,Rainfed paddy belt (east & centre)
+Jammu And Kashmir,Anantnag,0,Smallholder plantation & mixed-crop districts
+Jammu And Kashmir,Bandipora,1,Rainfed paddy belt (east & centre)
+Jammu And Kashmir,Baramulla,0,Smallholder plantation & mixed-crop districts
+Jammu And Kashmir,Budgam,0,Smallholder plantation & mixed-crop districts
+Jammu And Kashmir,Doda,1,Rainfed paddy belt (east & centre)
+Jammu And Kashmir,Ganderbal,1,Rainfed paddy belt (east & centre)
+Jammu And Kashmir,Jammu,4,Irrigated rice-wheat plains
+Jammu And Kashmir,Kathua,1,Rainfed paddy belt (east & centre)
+Jammu And Kashmir,Kishtwar,1,Rainfed paddy belt (east & centre)
+Jammu And Kashmir,Kulgam,0,Smallholder plantation & mixed-crop districts
+Jammu And Kashmir,Kupwara,0,Smallholder plantation & mixed-crop districts
+Jammu And Kashmir,Poonch,1,Rainfed paddy belt (east & centre)
+Jammu And Kashmir,Pulwama,0,Smallholder plantation & mixed-crop districts
+Jammu And Kashmir,Rajouri,1,Rainfed paddy belt (east & centre)
+Jammu And Kashmir,Ramban,1,Rainfed paddy belt (east & centre)
+Jammu And Kashmir,Reasi,1,Rainfed paddy belt (east & centre)
+Jammu And Kashmir,Samba,4,Irrigated rice-wheat plains
+Jammu And Kashmir,Shopian,0,Smallholder plantation & mixed-crop districts
+Jammu And Kashmir,Srinagar,4,Irrigated rice-wheat plains
+Jammu And Kashmir,Udhampur,1,Rainfed paddy belt (east & centre)
+Jharkhand,Bokaro,1,Rainfed paddy belt (east & centre)
+Jharkhand,Chatra,1,Rainfed paddy belt (east & centre)
+Jharkhand,Deoghar,1,Rainfed paddy belt (east & centre)
+Jharkhand,Dhanbad,1,Rainfed paddy belt (east & centre)
+Jharkhand,Dumka,1,Rainfed paddy belt (east & centre)
+Jharkhand,East Singhbum,1,Rainfed paddy belt (east & centre)
+Jharkhand,Garhwa,1,Rainfed paddy belt (east & centre)
+Jharkhand,Giridih,1,Rainfed paddy belt (east & centre)
+Jharkhand,Godda,1,Rainfed paddy belt (east & centre)
+Jharkhand,Gumla,2,Tribal-majority hill & northeast districts
+Jharkhand,Hazaribagh,1,Rainfed paddy belt (east & centre)
+Jharkhand,Jamtara,1,Rainfed paddy belt (east & centre)
+Jharkhand,Khunti,2,Tribal-majority hill & northeast districts
+Jharkhand,Koderma,1,Rainfed paddy belt (east & centre)
+Jharkhand,Latehar,2,Tribal-majority hill & northeast districts
+Jharkhand,Lohardaga,2,Tribal-majority hill & northeast districts
+Jharkhand,Pakur,1,Rainfed paddy belt (east & centre)
+Jharkhand,Palamu,1,Rainfed paddy belt (east & centre)
+Jharkhand,Ramgarh,2,Tribal-majority hill & northeast districts
+Jharkhand,Ranchi,2,Tribal-majority hill & northeast districts
+Jharkhand,Sahebganj,2,Tribal-majority hill & northeast districts
+Jharkhand,Saraikela Kharsawan,1,Rainfed paddy belt (east & centre)
+Jharkhand,Simdega,1,Rainfed paddy belt (east & centre)
+Jharkhand,West Singhbhum,1,Rainfed paddy belt (east & centre)
+Karnataka,Bagalkote,3,Semi-arid cotton-soybean-millet plateau
+Karnataka,Ballari,3,Semi-arid cotton-soybean-millet plateau
+Karnataka,Belagavi,3,Semi-arid cotton-soybean-millet plateau
+Karnataka,Bengaluru Rural,0,Smallholder plantation & mixed-crop districts
+Karnataka,Bengaluru Urban,0,Smallholder plantation & mixed-crop districts
+Karnataka,Bidar,3,Semi-arid cotton-soybean-millet plateau
+Karnataka,Chamarajanagar,3,Semi-arid cotton-soybean-millet plateau
+Karnataka,Chikkaballapura,2,Tribal-majority hill & northeast districts
+Karnataka,Chikkamagaluru,0,Smallholder plantation & mixed-crop districts
+Karnataka,Chitradurga,3,Semi-arid cotton-soybean-millet plateau
+Karnataka,Dakshina Kannada,0,Smallholder plantation & mixed-crop districts
+Karnataka,Davanagere,1,Rainfed paddy belt (east & centre)
+Karnataka,Dharwad,3,Semi-arid cotton-soybean-millet plateau
+Karnataka,Gadag,2,Tribal-majority hill & northeast districts
+Karnataka,Hassan,0,Smallholder plantation & mixed-crop districts
+Karnataka,Haveri,3,Semi-arid cotton-soybean-millet plateau
+Karnataka,Kalaburagi,3,Semi-arid cotton-soybean-millet plateau
+Karnataka,Kodagu,3,Semi-arid cotton-soybean-millet plateau
+Karnataka,Kolar,0,Smallholder plantation & mixed-crop districts
+Karnataka,Koppal,3,Semi-arid cotton-soybean-millet plateau
+Karnataka,Mandya,0,Smallholder plantation & mixed-crop districts
+Karnataka,Mysuru,0,Smallholder plantation & mixed-crop districts
+Karnataka,Raichur,3,Semi-arid cotton-soybean-millet plateau
+Karnataka,Shivamogga,1,Rainfed paddy belt (east & centre)
+Karnataka,Tumakuru,3,Semi-arid cotton-soybean-millet plateau
+Karnataka,Udupi,0,Smallholder plantation & mixed-crop districts
+Karnataka,Uttara Kannada,1,Rainfed paddy belt (east & centre)
+Karnataka,Vijayapura,3,Semi-arid cotton-soybean-millet plateau
+Karnataka,Yadgir,3,Semi-arid cotton-soybean-millet plateau
+Kerala,Alappuzha,0,Smallholder plantation & mixed-crop districts
+Kerala,Ernakulam,0,Smallholder plantation & mixed-crop districts
+Kerala,Idukki,0,Smallholder plantation & mixed-crop districts
+Kerala,Kannur,0,Smallholder plantation & mixed-crop districts
+Kerala,Kasaragod,0,Smallholder plantation & mixed-crop districts
+Kerala,Kollam,0,Smallholder plantation & mixed-crop districts
+Kerala,Kottayam,0,Smallholder plantation & mixed-crop districts
+Kerala,Kozhikode,0,Smallholder plantation & mixed-crop districts
+Kerala,Malappuram,0,Smallholder plantation & mixed-crop districts
+Kerala,Palakkad,0,Smallholder plantation & mixed-crop districts
+Kerala,Pathanamthitta,0,Smallholder plantation & mixed-crop districts
+Kerala,Thiruvananthapuram,0,Smallholder plantation & mixed-crop districts
+Kerala,Thrissur,0,Smallholder plantation & mixed-crop districts
+Kerala,Wayanad,0,Smallholder plantation & mixed-crop districts
+Madhya Pradesh,Alirajpur,2,Tribal-majority hill & northeast districts
+Madhya Pradesh,Anuppur,1,Rainfed paddy belt (east & centre)
+Madhya Pradesh,Ashoknagar,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Balaghat,1,Rainfed paddy belt (east & centre)
+Madhya Pradesh,Barwani,2,Tribal-majority hill & northeast districts
+Madhya Pradesh,Betul,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Bhind,4,Irrigated rice-wheat plains
+Madhya Pradesh,Bhopal,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Burhanpur,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Chhatarpur,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Chhindwara,2,Tribal-majority hill & northeast districts
+Madhya Pradesh,Damoh,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Datia,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Dewas,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Dhar,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Dindori,2,Tribal-majority hill & northeast districts
+Madhya Pradesh,Guna,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Gwalior,4,Irrigated rice-wheat plains
+Madhya Pradesh,Harda,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Indore,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Jabalpur,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Jhabua,2,Tribal-majority hill & northeast districts
+Madhya Pradesh,Katni,4,Irrigated rice-wheat plains
+Madhya Pradesh,Khandwa (East Nimar),3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Khargone (West Nimar),3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Mandla,1,Rainfed paddy belt (east & centre)
+Madhya Pradesh,Mandsaur,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Morena,1,Rainfed paddy belt (east & centre)
+Madhya Pradesh,Narmadapuram,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Narsimhapur,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Neemuch,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Panna,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Raisen,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Rajgarh,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Ratlam,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Rewa,4,Irrigated rice-wheat plains
+Madhya Pradesh,Sagar,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Satna,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Sehore,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Seoni,2,Tribal-majority hill & northeast districts
+Madhya Pradesh,Shahdol,1,Rainfed paddy belt (east & centre)
+Madhya Pradesh,Shajapur,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Shivpuri,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Sidhi,1,Rainfed paddy belt (east & centre)
+Madhya Pradesh,Singrauli,2,Tribal-majority hill & northeast districts
+Madhya Pradesh,Tikamgarh,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Ujjain,3,Semi-arid cotton-soybean-millet plateau
+Madhya Pradesh,Umaria,1,Rainfed paddy belt (east & centre)
+Madhya Pradesh,Vidisha,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Ahilyanagar,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Akola,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Amravati,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Beed,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Bhandara,4,Irrigated rice-wheat plains
+Maharashtra,Buldhana,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Chandrapur,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Chhatrapati Sambhajinagar,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Dharashiv,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Dhule,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Gadchiroli,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Gondia,1,Rainfed paddy belt (east & centre)
+Maharashtra,Hingoli,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Jalgaon,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Jalna,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Kolhapur,0,Smallholder plantation & mixed-crop districts
+Maharashtra,Latur,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Nagpur,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Nanded,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Nandurbar,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Nashik,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Palghar,2,Tribal-majority hill & northeast districts
+Maharashtra,Parbhani,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Pune,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Raigad,0,Smallholder plantation & mixed-crop districts
+Maharashtra,Ratnagiri,2,Tribal-majority hill & northeast districts
+Maharashtra,Sangli,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Satara,0,Smallholder plantation & mixed-crop districts
+Maharashtra,Sindhudurg,0,Smallholder plantation & mixed-crop districts
+Maharashtra,Solapur,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Thane,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Wardha,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Washim,3,Semi-arid cotton-soybean-millet plateau
+Maharashtra,Yavatmal,3,Semi-arid cotton-soybean-millet plateau
+Meghalaya,East Garo Hills,2,Tribal-majority hill & northeast districts
+Meghalaya,East Jaintia Hills,1,Rainfed paddy belt (east & centre)
+Meghalaya,East Khasi Hills,2,Tribal-majority hill & northeast districts
+Meghalaya,North Garo Hills,2,Tribal-majority hill & northeast districts
+Meghalaya,Ri Bhoi,2,Tribal-majority hill & northeast districts
+Meghalaya,South Garo Hills,2,Tribal-majority hill & northeast districts
+Meghalaya,South West Garo Hills,2,Tribal-majority hill & northeast districts
+Meghalaya,South West Khasi Hills,2,Tribal-majority hill & northeast districts
+Meghalaya,West Garo Hills,2,Tribal-majority hill & northeast districts
+Meghalaya,West Jaintia Hills,2,Tribal-majority hill & northeast districts
+Meghalaya,West Khasi Hills,2,Tribal-majority hill & northeast districts
+Mizoram,Kolasib,2,Tribal-majority hill & northeast districts
+Mizoram,Mamit,2,Tribal-majority hill & northeast districts
+Nagaland,Kiphire,1,Rainfed paddy belt (east & centre)
+Nagaland,Kohima,2,Tribal-majority hill & northeast districts
+Nagaland,Longleng,1,Rainfed paddy belt (east & centre)
+Nagaland,Mokokchung,1,Rainfed paddy belt (east & centre)
+Nagaland,Mon,2,Tribal-majority hill & northeast districts
+Nagaland,Peren,1,Rainfed paddy belt (east & centre)
+Nagaland,Phek,1,Rainfed paddy belt (east & centre)
+Nagaland,Tuensang,1,Rainfed paddy belt (east & centre)
+Nagaland,Wokha,2,Tribal-majority hill & northeast districts
+Nagaland,Zunheboto,1,Rainfed paddy belt (east & centre)
+Odisha,Angul,1,Rainfed paddy belt (east & centre)
+Odisha,Balangir,1,Rainfed paddy belt (east & centre)
+Odisha,Baleshwar,1,Rainfed paddy belt (east & centre)
+Odisha,Bargarh,1,Rainfed paddy belt (east & centre)
+Odisha,Bhadrak,1,Rainfed paddy belt (east & centre)
+Odisha,Boudh,1,Rainfed paddy belt (east & centre)
+Odisha,Cuttack,1,Rainfed paddy belt (east & centre)
+Odisha,Deogarh,1,Rainfed paddy belt (east & centre)
+Odisha,Dhenkanal,1,Rainfed paddy belt (east & centre)
+Odisha,Gajapati,2,Tribal-majority hill & northeast districts
+Odisha,Ganjam,1,Rainfed paddy belt (east & centre)
+Odisha,Jagatsinghapur,1,Rainfed paddy belt (east & centre)
+Odisha,Jajpur,1,Rainfed paddy belt (east & centre)
+Odisha,Jharsuguda,1,Rainfed paddy belt (east & centre)
+Odisha,Kalahandi,1,Rainfed paddy belt (east & centre)
+Odisha,Kandhamal,1,Rainfed paddy belt (east & centre)
+Odisha,Kendrapara,1,Rainfed paddy belt (east & centre)
+Odisha,Kendujhar,1,Rainfed paddy belt (east & centre)
+Odisha,Khordha,1,Rainfed paddy belt (east & centre)
+Odisha,Koraput,1,Rainfed paddy belt (east & centre)
+Odisha,Malkangiri,1,Rainfed paddy belt (east & centre)
+Odisha,Mayurbhanj,1,Rainfed paddy belt (east & centre)
+Odisha,Nabarangpur,1,Rainfed paddy belt (east & centre)
+Odisha,Nayagarh,1,Rainfed paddy belt (east & centre)
+Odisha,Nuapada,1,Rainfed paddy belt (east & centre)
+Odisha,Puri,1,Rainfed paddy belt (east & centre)
+Odisha,Rayagada,2,Tribal-majority hill & northeast districts
+Odisha,Sambalpur,1,Rainfed paddy belt (east & centre)
+Odisha,Sonepur,1,Rainfed paddy belt (east & centre)
+Odisha,Sundargarh,1,Rainfed paddy belt (east & centre)
+Puducherry,Karaikal,4,Irrigated rice-wheat plains
+Puducherry,Puducherry,0,Smallholder plantation & mixed-crop districts
+Punjab,Amritsar,4,Irrigated rice-wheat plains
+Punjab,Barnala,4,Irrigated rice-wheat plains
+Punjab,Bathinda,4,Irrigated rice-wheat plains
+Punjab,Faridkot,4,Irrigated rice-wheat plains
+Punjab,Fatehgarh Sahib,4,Irrigated rice-wheat plains
+Punjab,Fazilka,3,Semi-arid cotton-soybean-millet plateau
+Punjab,Ferozepur,4,Irrigated rice-wheat plains
+Punjab,Jalandhar,4,Irrigated rice-wheat plains
+Punjab,Kapurthala,4,Irrigated rice-wheat plains
+Punjab,Ludhiana,4,Irrigated rice-wheat plains
+Punjab,Moga,4,Irrigated rice-wheat plains
+Punjab,Pathankot,4,Irrigated rice-wheat plains
+Punjab,Patiala,4,Irrigated rice-wheat plains
+Punjab,Rupnagar,4,Irrigated rice-wheat plains
+Punjab,Sangrur,4,Irrigated rice-wheat plains
+Punjab,Shahid Bhagat Singh Nagar,4,Irrigated rice-wheat plains
+Punjab,Sri Muktsar Sahib,4,Irrigated rice-wheat plains
+Punjab,Tarn Taran,4,Irrigated rice-wheat plains
+Rajasthan,Ajmer,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Alwar,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Banswara,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Baran,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Barmer,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Bharatpur,0,Smallholder plantation & mixed-crop districts
+Rajasthan,Bhilwara,2,Tribal-majority hill & northeast districts
+Rajasthan,Bikaner,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Bundi,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Chittorgarh,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Churu,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Dausa,1,Rainfed paddy belt (east & centre)
+Rajasthan,Dholpur,4,Irrigated rice-wheat plains
+Rajasthan,Dungarpur,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Ganganagar,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Hanumangarh,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Jaipur,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Jaisalmer,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Jalore,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Jhalawar,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Jhunjhunu,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Jodhpur,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Karauli,1,Rainfed paddy belt (east & centre)
+Rajasthan,Kota,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Nagaur,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Pali,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Pratapgarh,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Rajsamand,4,Irrigated rice-wheat plains
+Rajasthan,Sawai Madhopur,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Sikar,0,Smallholder plantation & mixed-crop districts
+Rajasthan,Sirohi,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Tonk,3,Semi-arid cotton-soybean-millet plateau
+Rajasthan,Udaipur,1,Rainfed paddy belt (east & centre)
+Sikkim,Gangtok,2,Tribal-majority hill & northeast districts
+Sikkim,Gyalshing,2,Tribal-majority hill & northeast districts
+Sikkim,Mangan,2,Tribal-majority hill & northeast districts
+Sikkim,Namchi,2,Tribal-majority hill & northeast districts
+Tamil Nadu,Ariyalur,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Chengalpattu,4,Irrigated rice-wheat plains
+Tamil Nadu,Coimbatore,3,Semi-arid cotton-soybean-millet plateau
+Tamil Nadu,Cuddalore,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Dharmapuri,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Dindigul,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Erode,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Kallakurichi,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Kancheepuram,4,Irrigated rice-wheat plains
+Tamil Nadu,Kanniyakumari,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Karur,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Krishnagiri,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Madurai,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Nagapattinam,4,Irrigated rice-wheat plains
+Tamil Nadu,Namakkal,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Perambalur,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Pudukkottai,4,Irrigated rice-wheat plains
+Tamil Nadu,Ramanathapuram,4,Irrigated rice-wheat plains
+Tamil Nadu,Ranipet,4,Irrigated rice-wheat plains
+Tamil Nadu,Salem,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Sivaganga,4,Irrigated rice-wheat plains
+Tamil Nadu,Tenkasi,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Thanjavur,4,Irrigated rice-wheat plains
+Tamil Nadu,The Nilgiris,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Theni,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Thiruvallur,4,Irrigated rice-wheat plains
+Tamil Nadu,Thiruvarur,4,Irrigated rice-wheat plains
+Tamil Nadu,Thoothukkudi,3,Semi-arid cotton-soybean-millet plateau
+Tamil Nadu,Tiruchirappalli,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Tirunelveli,4,Irrigated rice-wheat plains
+Tamil Nadu,Tirupathur,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Tiruppur,3,Semi-arid cotton-soybean-millet plateau
+Tamil Nadu,Tiruvannamalai,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Vellore,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Viluppuram,0,Smallholder plantation & mixed-crop districts
+Tamil Nadu,Virudhunagar,0,Smallholder plantation & mixed-crop districts
+Telangana,Adilabad,3,Semi-arid cotton-soybean-millet plateau
+Telangana,Bhadradri Kothagudem,3,Semi-arid cotton-soybean-millet plateau
+Telangana,Jagitial,3,Semi-arid cotton-soybean-millet plateau
+Telangana,Jangoan,3,Semi-arid cotton-soybean-millet plateau
+Telangana,Jayashankar Bhupalapally,4,Irrigated rice-wheat plains
+Telangana,Jogulamba Gadwal,3,Semi-arid cotton-soybean-millet plateau
+Telangana,Kamareddy,3,Semi-arid cotton-soybean-millet plateau
+Telangana,Karimnagar,4,Irrigated rice-wheat plains
+Telangana,Khammam,3,Semi-arid cotton-soybean-millet plateau
+Telangana,Mahabubabad,0,Smallholder plantation & mixed-crop districts
+Telangana,Mahabubnagar,3,Semi-arid cotton-soybean-millet plateau
+Telangana,Medak,3,Semi-arid cotton-soybean-millet plateau
+Telangana,Medchal Malkajgiri,0,Smallholder plantation & mixed-crop districts
+Telangana,Mulugu,4,Irrigated rice-wheat plains
+Telangana,Nagarkurnool,3,Semi-arid cotton-soybean-millet plateau
+Telangana,Nalgonda,3,Semi-arid cotton-soybean-millet plateau
+Telangana,Narayanpet,3,Semi-arid cotton-soybean-millet plateau
+Telangana,Nirmal,2,Tribal-majority hill & northeast districts
+Telangana,Nizamabad,3,Semi-arid cotton-soybean-millet plateau
+Telangana,Peddapalli,3,Semi-arid cotton-soybean-millet plateau
+Telangana,Ranga Reddy,3,Semi-arid cotton-soybean-millet plateau
+Telangana,Sangareddy,3,Semi-arid cotton-soybean-millet plateau
+Telangana,Siddipet,3,Semi-arid cotton-soybean-millet plateau
+Telangana,Suryapet,3,Semi-arid cotton-soybean-millet plateau
+Telangana,Vikarabad,3,Semi-arid cotton-soybean-millet plateau
+Telangana,Wanaparthy,3,Semi-arid cotton-soybean-millet plateau
+Telangana,Warangal,0,Smallholder plantation & mixed-crop districts
+Telangana,Yadadri Bhuvanagiri,3,Semi-arid cotton-soybean-millet plateau
+Tripura,Dhalai,2,Tribal-majority hill & northeast districts
+Tripura,Gomati,2,Tribal-majority hill & northeast districts
+Tripura,Khowai,2,Tribal-majority hill & northeast districts
+Tripura,North Tripura,2,Tribal-majority hill & northeast districts
+Tripura,Sepahijala,2,Tribal-majority hill & northeast districts
+Tripura,South Tripura,1,Rainfed paddy belt (east & centre)
+Tripura,Unakoti,1,Rainfed paddy belt (east & centre)
+Tripura,West Tripura,2,Tribal-majority hill & northeast districts
+Uttar Pradesh,Agra,4,Irrigated rice-wheat plains
+Uttar Pradesh,Aligarh,4,Irrigated rice-wheat plains
+Uttar Pradesh,Ambedkar Nagar,4,Irrigated rice-wheat plains
+Uttar Pradesh,Amethi,4,Irrigated rice-wheat plains
+Uttar Pradesh,Amroha,0,Smallholder plantation & mixed-crop districts
+Uttar Pradesh,Auraiya,4,Irrigated rice-wheat plains
+Uttar Pradesh,Ayodhya,4,Irrigated rice-wheat plains
+Uttar Pradesh,Azamgarh,4,Irrigated rice-wheat plains
+Uttar Pradesh,Baghpat,0,Smallholder plantation & mixed-crop districts
+Uttar Pradesh,Bahraich,4,Irrigated rice-wheat plains
+Uttar Pradesh,Ballia,4,Irrigated rice-wheat plains
+Uttar Pradesh,Balrampur,4,Irrigated rice-wheat plains
+Uttar Pradesh,Banda,4,Irrigated rice-wheat plains
+Uttar Pradesh,Bara Banki,4,Irrigated rice-wheat plains
+Uttar Pradesh,Bareilly,4,Irrigated rice-wheat plains
+Uttar Pradesh,Basti,4,Irrigated rice-wheat plains
+Uttar Pradesh,Bhadohi,4,Irrigated rice-wheat plains
+Uttar Pradesh,Bijnor,0,Smallholder plantation & mixed-crop districts
+Uttar Pradesh,Budaun,4,Irrigated rice-wheat plains
+Uttar Pradesh,Bulandshahr,4,Irrigated rice-wheat plains
+Uttar Pradesh,Chandauli,4,Irrigated rice-wheat plains
+Uttar Pradesh,Chitrakoot,4,Irrigated rice-wheat plains
+Uttar Pradesh,Deoria,4,Irrigated rice-wheat plains
+Uttar Pradesh,Etah,4,Irrigated rice-wheat plains
+Uttar Pradesh,Etawah,4,Irrigated rice-wheat plains
+Uttar Pradesh,Farrukhabad,4,Irrigated rice-wheat plains
+Uttar Pradesh,Fatehpur,4,Irrigated rice-wheat plains
+Uttar Pradesh,Firozabad,4,Irrigated rice-wheat plains
+Uttar Pradesh,Gautam Buddha Nagar,4,Irrigated rice-wheat plains
+Uttar Pradesh,Ghaziabad,0,Smallholder plantation & mixed-crop districts
+Uttar Pradesh,Ghazipur,4,Irrigated rice-wheat plains
+Uttar Pradesh,Gonda,4,Irrigated rice-wheat plains
+Uttar Pradesh,Gorakhpur,4,Irrigated rice-wheat plains
+Uttar Pradesh,Hamirpur,4,Irrigated rice-wheat plains
+Uttar Pradesh,Hapur,0,Smallholder plantation & mixed-crop districts
+Uttar Pradesh,Hardoi,4,Irrigated rice-wheat plains
+Uttar Pradesh,Hathras,0,Smallholder plantation & mixed-crop districts
+Uttar Pradesh,Jalaun,4,Irrigated rice-wheat plains
+Uttar Pradesh,Jaunpur,4,Irrigated rice-wheat plains
+Uttar Pradesh,Jhansi,4,Irrigated rice-wheat plains
+Uttar Pradesh,Kannauj,4,Irrigated rice-wheat plains
+Uttar Pradesh,Kanpur Dehat,4,Irrigated rice-wheat plains
+Uttar Pradesh,Kanpur Nagar,4,Irrigated rice-wheat plains
+Uttar Pradesh,Kasganj,4,Irrigated rice-wheat plains
+Uttar Pradesh,Kaushambi,4,Irrigated rice-wheat plains
+Uttar Pradesh,Kheri,0,Smallholder plantation & mixed-crop districts
+Uttar Pradesh,Kushinagar,4,Irrigated rice-wheat plains
+Uttar Pradesh,Lalitpur,3,Semi-arid cotton-soybean-millet plateau
+Uttar Pradesh,Lucknow,4,Irrigated rice-wheat plains
+Uttar Pradesh,Mahoba,3,Semi-arid cotton-soybean-millet plateau
+Uttar Pradesh,Mahrajganj,4,Irrigated rice-wheat plains
+Uttar Pradesh,Mainpuri,4,Irrigated rice-wheat plains
+Uttar Pradesh,Mathura,4,Irrigated rice-wheat plains
+Uttar Pradesh,Mau,4,Irrigated rice-wheat plains
+Uttar Pradesh,Meerut,0,Smallholder plantation & mixed-crop districts
+Uttar Pradesh,Mirzapur,4,Irrigated rice-wheat plains
+Uttar Pradesh,Moradabad,4,Irrigated rice-wheat plains
+Uttar Pradesh,Muzaffarnagar,0,Smallholder plantation & mixed-crop districts
+Uttar Pradesh,Pilibhit,4,Irrigated rice-wheat plains
+Uttar Pradesh,Pratapgarh,4,Irrigated rice-wheat plains
+Uttar Pradesh,Prayagraj,4,Irrigated rice-wheat plains
+Uttar Pradesh,Rae Bareli,4,Irrigated rice-wheat plains
+Uttar Pradesh,Rampur,4,Irrigated rice-wheat plains
+Uttar Pradesh,Saharanpur,0,Smallholder plantation & mixed-crop districts
+Uttar Pradesh,Sambhal,4,Irrigated rice-wheat plains
+Uttar Pradesh,Sant Kabir Nagar,4,Irrigated rice-wheat plains
+Uttar Pradesh,Shahjahanpur,4,Irrigated rice-wheat plains
+Uttar Pradesh,Shamli,0,Smallholder plantation & mixed-crop districts
+Uttar Pradesh,Shrawasti,4,Irrigated rice-wheat plains
+Uttar Pradesh,Siddharthnagar,4,Irrigated rice-wheat plains
+Uttar Pradesh,Sitapur,0,Smallholder plantation & mixed-crop districts
+Uttar Pradesh,Sonbhadra,4,Irrigated rice-wheat plains
+Uttar Pradesh,Sultanpur,4,Irrigated rice-wheat plains
+Uttar Pradesh,Unnao,4,Irrigated rice-wheat plains
+Uttar Pradesh,Varanasi,4,Irrigated rice-wheat plains
+Uttarakhand,Almora,0,Smallholder plantation & mixed-crop districts
+Uttarakhand,Bageshwar,1,Rainfed paddy belt (east & centre)
+Uttarakhand,Chamoli,0,Smallholder plantation & mixed-crop districts
+Uttarakhand,Champawat,0,Smallholder plantation & mixed-crop districts
+Uttarakhand,Dehradun,0,Smallholder plantation & mixed-crop districts
+Uttarakhand,Haridwar,0,Smallholder plantation & mixed-crop districts
+Uttarakhand,Nainital,0,Smallholder plantation & mixed-crop districts
+Uttarakhand,Pauri Garhwal,0,Smallholder plantation & mixed-crop districts
+Uttarakhand,Pithoragarh,0,Smallholder plantation & mixed-crop districts
+Uttarakhand,Rudraprayag,1,Rainfed paddy belt (east & centre)
+Uttarakhand,Tehri Garhwal,0,Smallholder plantation & mixed-crop districts
+Uttarakhand,Udham Singh Nagar,4,Irrigated rice-wheat plains
+Uttarakhand,Uttarkashi,0,Smallholder plantation & mixed-crop districts
+West Bengal,Alipurduar,1,Rainfed paddy belt (east & centre)
+West Bengal,Bankura,1,Rainfed paddy belt (east & centre)
+West Bengal,Birbhum,1,Rainfed paddy belt (east & centre)
+West Bengal,Cooch Behar,2,Tribal-majority hill & northeast districts
+West Bengal,Dakshin Dinajpur,1,Rainfed paddy belt (east & centre)
+West Bengal,Darjeeling,2,Tribal-majority hill & northeast districts
+West Bengal,Hooghly,0,Smallholder plantation & mixed-crop districts
+West Bengal,Howrah,1,Rainfed paddy belt (east & centre)
+West Bengal,Jalpaiguri,1,Rainfed paddy belt (east & centre)
+West Bengal,Jhargram,1,Rainfed paddy belt (east & centre)
+West Bengal,Kalimpong,2,Tribal-majority hill & northeast districts
+West Bengal,Malda,0,Smallholder plantation & mixed-crop districts
+West Bengal,Murshidabad,0,Smallholder plantation & mixed-crop districts
+West Bengal,Nadia,0,Smallholder plantation & mixed-crop districts
+West Bengal,North 24 Parganas,0,Smallholder plantation & mixed-crop districts
+West Bengal,Paschim Bardhaman,1,Rainfed paddy belt (east & centre)
+West Bengal,Paschim Medinipur,1,Rainfed paddy belt (east & centre)
+West Bengal,Purba Bardhaman,1,Rainfed paddy belt (east & centre)
+West Bengal,Purba Medinipur,1,Rainfed paddy belt (east & centre)
+West Bengal,Purulia,1,Rainfed paddy belt (east & centre)
+West Bengal,South 24 Parganas,1,Rainfed paddy belt (east & centre)
+West Bengal,Uttar Dinajpur,1,Rainfed paddy belt (east & centre)

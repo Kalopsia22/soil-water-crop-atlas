@@ -1,0 +1,55 @@
+{
+ "farm_gap_n": 608,
+ "farm_gap_median": 1.781752571053456,
+ "farm_gap_pos_share": 0.5986842105263158,
+ "crop_shift_n": 348,
+ "crop_shift_median": 14.762618866261576,
+ "crop_gain": {
+  "Soyabean": 2.05,
+  "Paddy": 0.65,
+  "Cotton": 0.54,
+  "Maize": 0.38,
+  "Castorseed": 0.35,
+  "Urad": 0.29,
+  "Potato": 0.29,
+  "Wheat": 0.29
+ },
+ "crop_loss": {
+  "Jowar": -1.11,
+  "Groundnut": -0.92,
+  "Gram": -0.91,
+  "Bajra": -0.6,
+  "Grim": -0.55,
+  "Small Millets": -0.41,
+  "Other Fodder Crops": -0.33,
+  "Sugarcane": -0.21
+ },
+ "hort_states": 24,
+ "hort_rho": 0.040869565217391296,
+ "hort_unmatched": [
+  "andamanandnicobarislands",
+  "delhi",
+  "goa",
+  "ladakh",
+  "lakshadweep",
+  "manipur",
+  "mizoram",
+  "puducherry",
+  "sikkim",
+  "telangana"
+ ],
+ "forecast": {
+  "1st advance": {
+   "median_abs_error_pct": 6.356038795804844,
+   "mean_abs_national_error_pct": 2.1505547172933626
+  },
+  "2nd advance": {
+   "median_abs_error_pct": 3.123668820089107,
+   "mean_abs_national_error_pct": 1.0319088250128272
+  },
+  "3rd advance": {
+   "median_abs_error_pct": 0.14722090838749582,
+   "mean_abs_national_error_pct": 1.1626662704509816
+  }
+ }
+}
