@@ -36,7 +36,7 @@ try:  # keep the custom chart theme in browser dark mode (Streamlit would otherw
 except Exception:
     pass
 SEQ = ["#fff6e5", "#fcd9a0", "#f2a65a", "#d8683c", "#992e2e"]
-_ax = dict(gridcolor="#e8eee9", zerolinecolor="#d5ded8", linecolor="#d5ded8")
+_ax = dict(gridcolor="#e8eee9", zerolinecolor="#d5ded8", linecolor="#d5ded8", automargin=True)
 pio.templates["atlas"] = go.layout.Template(layout=dict(
     font=dict(family="Inter, sans-serif", color="#2b3a32", size=13), colorway=PAL, paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)",
     xaxis=_ax, yaxis=_ax, title=dict(x=0.01, font=dict(size=15, color="#17493a")),
@@ -194,6 +194,8 @@ def anomaly(s, n_days):
 
 def sty(fig, h=420):
     fig.update_layout(height=h, margin=dict(l=10, r=10, t=50, b=10))
+    fig.update_xaxes(automargin=True)
+    fig.update_yaxes(automargin=True)
     return fig
 
 
